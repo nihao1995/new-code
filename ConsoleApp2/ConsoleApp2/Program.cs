@@ -13,7 +13,7 @@ namespace ConsoleApp2
                 Console.WriteLine(x);
             }
             Console.WriteLine("Hello World!");
-            Console.WriteLine()
+            Console.WriteLine();
             Console.ReadKey();
         }
         public static int[] calc(int[] nums)

@@ -1,0 +1,30 @@
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mindex 3c4efe2..a7da306 100644[m
+[1m--- a/.gitignore[m
+[1m+++ b/.gitignore[m
+[36m@@ -94,18 +94,6 @@[m [mipch/[m
+ $tf/[m
+ [m
+ # Guidance Automation Toolkit[m
+[31m-*.gpState[m
+[31m-[m
+[31m-# ReSharper is a .NET coding add-in[m
+[31m-_ReSharper*/[m
+[31m-*.[Rr]e[Ss]harper[m
+[31m-*.DotSettings.user[m
+[31m-[m
+[31m-# JustCode is a .NET coding add-in[m
+[31m-.JustCode[m
+[31m-[m
+[31m-# TeamCity is a build add-in[m
+[31m-_TeamCity*[m
+ [m
+ # DotCover is a Code Coverage Tool[m
+ *.dotCover[m
+[36m@@ -258,4 +246,4 @@[m [mpaket-files/[m
+ [m
+ # Python Tools for Visual Studio (PTVS)[m
+ __pycache__/[m
+[31m-*.pyc[m
+\ No newline at end of file[m
+[32m+[m[32m*.pyc[m

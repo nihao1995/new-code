@@ -1,0 +1,17 @@
+配置个人目录下的.gitconfig 用vim来打开编辑指令:vim ~/.gitconfig
+忽略某些文件，不用实时跟踪，用vim来打开 vim ~/.gitignore
+
+git init :把当前目录变成git可以管理的仓库
+pwd :显示当前目录
+dir :查询当前文件夹中的文件
+mkdir 文件夹名 :创建一个新的文件夹
+vi/vim 文件名 :修改当前文件内容 i:进行修改 ESC:退出修改模式 (:wq):退出
+cat 文件名: 运行文件
+git文件提交三条指令：
+	1.git status 查看文件当前状态
+	2.git add 文件名
+	3.git commit -m"描述"
+	4.git clone [url] 文件克隆到当前文件夹
+	5.git clone [url] 文件夹名 会新建一个文件夹，将文件克隆到新的文件夹中
+	6.
+	

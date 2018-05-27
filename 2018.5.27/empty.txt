@@ -14,4 +14,4 @@ git文件提交三条指令：
 	4.git clone [url] 文件克隆到当前文件夹
 	5.git clone [url] 文件夹名 会新建一个文件夹，将文件克隆到新的文件夹中
 	6.zhe s xin zen jia d 
-	
+	7. 9.50fen xin jia  
